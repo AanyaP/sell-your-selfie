@@ -1,2 +1,2 @@
 # sell-your-selfie
-JavaScript, CSS, HTML, Postgres, Bootstrap, OAuth, JSON, RestfulAPI's
+API World Hackathon Project
